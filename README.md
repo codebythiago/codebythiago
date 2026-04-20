@@ -1,4 +1,4 @@
-<img src="assets/thiago_banner.jpg">
+<img src="assets/thiago_banner.webp">
 
 #
 
