@@ -1,3 +1,7 @@
+<img src="assets/thiago_banner.jpg">
+
+#
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=Thiago+Rodrigues;Multiplatform+Development+Student;Building+modern+web+experiences" />
