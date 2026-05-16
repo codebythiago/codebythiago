@@ -92,7 +92,7 @@
       media="(prefers-color-scheme: light)"
     />
     <img height="180"
-      src="https://github-readme-stats.vercel.app/api?username=codebythiago&show_icons=true&hide_border=true&bg_color=00000000"
+      src="https://github-readme-stats.vercel.app/api?username=codebythiago&show_icons=true&hide_border=true&bg_color=00000000" alt="Stats"
     />
   </picture>
 
@@ -106,7 +106,7 @@
       media="(prefers-color-scheme: light)"
     />
     <img height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebythiago&layout=compact&hide_border=true&bg_color=00000000"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebythiago&layout=compact&hide_border=true&bg_color=00000000" alt="Top Langs"
     />
   </picture>
 </p>
